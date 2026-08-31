@@ -6,7 +6,7 @@ data:
   index.html: |
     <html>
       <body style="font-family: sans-serif; background:#0b1d33; color:#fff; text-align:center; padding-top:100px;">
-        <h1>Week 1-2 App — v1</h1>
-        <p>Deployed via GitOps with ArgoCD 🚀</p>
+         <h1>Week 1-2 App — v2</h1>
+    <p>Updated via Git, synced by ArgoCD 🔄</p>
       </body>
     </html>
